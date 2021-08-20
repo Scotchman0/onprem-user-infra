@@ -55,7 +55,7 @@ watch oc get co
 ## 4. Restoring IPI Provisioned Infrastructure
 
 ~~~
-oc delete machinconfig disable-ipi-infra-cp disable-ipi-infra-compute 
+oc delete machineconfig disable-ipi-infra-cp disable-ipi-infra-compute 
 
 # Wait for all operators to become available
 watch oc get co
