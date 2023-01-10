@@ -1,5 +1,7 @@
 # Overview
 
+**Note: the below steps are NOT SUPPORTED by Red Hat, use at your own risk.
+
 In some situations, it may be desired to retain the simplicity of an IPI install while allowing custom infrastructure to be used such as:
 
 - API/Ingress load balancing
